@@ -72,7 +72,7 @@ I am currently developing my CATIA V5 and mechanical design skills and am intere
 ### Satellite Body
 3D CAD model of the main satellite body developed using CATIA V5.
 
-![Satellite Body](Images/Satellite body.png)
+![Satellite Body](Images)
 
 ### Satellite Wings
 CAD model of the satellite wing/solar-panel structure.
