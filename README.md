@@ -77,12 +77,12 @@ I am currently developing my CATIA V5 and mechanical design skills and am intere
 ### Satellite Wings
 CAD model of the satellite wing/solar-panel structure.
 
-![Satellite Wings](Images/Satellite wings.png)
+![Satellite Wings](Images)
 
 ### Satellite Dish
 CATIA V5 modelling of the spacecraft antenna/dish component as part of the communication system configuration..
 
-![Satellite Dish](Images/Satellite dish.png)
+![Satellite Dish](Images)
 
 ## Portfolio
 
