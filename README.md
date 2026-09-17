@@ -67,6 +67,23 @@ I am currently developing my CATIA V5 and mechanical design skills and am intere
 * CAD Engineering
 * Aerospace Engineering
 
+  ## CATIA V5 Satellite Design
+
+### Satellite Body
+3D CAD model of the main satellite body developed using CATIA V5.
+
+![Satellite Body](Images/Satellite body.png)
+
+### Satellite Wings
+CAD model of the satellite wing/solar-panel structure.
+
+![Satellite Wings](Images/Satellite wings.png)
+
+### Satellite Dish
+CATIA V5 modelling of the spacecraft antenna/dish component as part of the communication system configuration..
+
+![Satellite Dish](Images/Satellite dish.png)
+
 ## Portfolio
 
 Additional images and project material are included in this repository.
